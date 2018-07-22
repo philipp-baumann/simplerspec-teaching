@@ -9,7 +9,7 @@ depeding on the field of application and personal opinion. Here, we
 solely focus on R.
 
   - **Minimum recommended R knowledge**: Prior to working with spectral
-    data using the R environment, you should improve on your R
+    data using the R environment, you should improve your R
     scripting/programming skills. You can for example consider this
     document in this repo or the pdf file here. I would highly recommend
     to do this because being familiar with R basics helps to avoid
