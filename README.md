@@ -1,6 +1,23 @@
 `simplerspec` teaching material for infrared spectroscopy applications
 ================
 
+# Getting started with infrared spectroscopy
+
+R has become a very popular environment for statistical computing. There
+is other alternative languages that are equally good, better or worse,
+depeding on the field of application and personal opinion. Here, we
+solely focus on R.
+
+  - **Minimum recommended R knowledge**: Prior to working with spectral
+    data using the R environment, you should improve on your R
+    scripting/programming skills. You can for example consider this
+    document in this repo or the pdf file here. I would highly recommend
+    to do this because being familiar with R basics helps to avoid
+    frustration in the first place and to hopefully enjoy the
+    opportunities spectral analysis provides.
+
+-----
+
 # Recommended literature
 
 ## Principles and applications of soil spectroscopy
