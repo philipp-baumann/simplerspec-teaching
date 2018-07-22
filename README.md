@@ -12,7 +12,8 @@ literature at the bottom of this document.
 
 Secondly, you may want to be prepared to measure, process and model
 plant or soil samples spectrally, and finally predict properties of new
-samples to reduce the extent of labourious reference analyses.
+samples to reduce the extent of labourious reference analyses. To achive
+this, one needs some statistics.
 
 R has become a very popular environment for statistical computing. There
 are alternative languages that are equally good, better or worse,
@@ -21,11 +22,13 @@ solely focus on R.
 
   - **Minimum recommended R knowledge**: Prior to working with spectral
     data using the R environment, you should improve your R
-    scripting/programming skills. You can for example consider this
-    document in this repo or the pdf file here. I would highly recommend
-    to do this because being familiar with R basics helps to avoid
-    frustration in the first place and to hopefully enjoy the
-    opportunities spectral analysis provides.
+    scripting/programming skills. You can for example consider [**this
+    document**](https://github.com/philipp-baumann/simplerspec-teaching/blob/master/00_R-basics-spectro.md)
+    in this repo or [**this pdf
+    file**](https://github.com/philipp-baumann/simplerspec-teaching/blob/master/00_R-basics-spectro.pdf).
+    I would highly recommend to do this because being familiar with R
+    basics helps to avoid frustration in the first place and to
+    hopefully enjoy the opportunities spectral analysis provides.
 
 -----
 
