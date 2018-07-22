@@ -73,4 +73,48 @@
 
 ## Principles and application of plant infrared spectroscopy
 
-## Statistical modeling for spectroscopy
+  - Lebot, V, Malapa, R., & Jung, M. (2013). Use of NIRS for the rapid
+    prediction of total N, minerals, sugars and starch in tropical root
+    and tuber crops. New Zealand Journal of Crop and Horticultural
+    Science, 41(3), 144–153.
+    <https://doi.org/10.1080/01140671.2013.798335>
+
+  - Lebot, Vincent, Champagne, A., Malapa, R., & Shiley, D. (2009). NIR
+    Determination of Major Constituents in Tropical Root and Tuber Crop
+    Flours. Journal of Agricultural and Food Chemistry, 57(22),
+    10539–10547. <https://doi.org/10.1021/jf902675n>
+
+  - van Maarschalkerweerd, M., & Husted, S. (2015). Recent developments
+    in fast spectroscopy for plant mineral analysis. Frontiers in Plant
+    Science, 6. <https://doi.org/10.3389/fpls.2015.00169>
+
+## Statistical modeling based on spectroscopy
+
+  - Chong, I.-G., & Jun, C.-H. (2005). Performance of some variable
+    selection methods when multicollinearity is present. Chemometrics
+    and Intelligent Laboratory Systems, 78(1–2), 103–112.
+    <https://doi.org/10.1016/j.chemolab.2004.12.011>
+
+  - Eriksson, L., Trygg, J., & Wold, S. (2014). A chemometrics toolbox
+    based on projections and latent variables: A chemometrics toolbox
+    based on projections and latent variables. Journal of Chemometrics,
+    28(5), 332–346. <https://doi.org/10.1002/cem.2581>
+
+  - Friedman, J., Hastie, T., & Tibshirani, R. (2001). The elements of
+    statistical learning (Vol. 1). Springer series in statistics
+    Springer, Berlin. Retrieved from
+    <http://statweb.stanford.edu/~tibs/book/preface.ps>
+
+  - Kuhn, M. (2008). Building Predictive Models in R Using the caret
+    Package. Journal of Statistical Software, Articles, 28(5), 1–26.
+    <https://doi.org/10.18637/jss.v028.i05>
+
+  - Stevens, A., & Ramirez–Lopez, L. (2014). An introduction to the
+    prospectr package. R Package Vignette, Report No.: R Package Version
+    0.1, 3. Retrieved from
+    <ftp://200.236.31.2/CRAN/web/packages/prospectr/vignettes/prospectr-intro.pdf>
+
+  - Wold, S., Sjöström, M., & Eriksson, L. (2001). PLS-regression: a
+    basic tool of chemometrics. Chemometrics and Intelligent Laboratory
+    Systems, 58(2), 109–130.
+    <https://doi.org/10.1016/S0169-7439(01)00155-1>
