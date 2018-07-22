@@ -3,9 +3,20 @@
 
 # Getting started with infrared spectroscopy
 
+First, you should read some scientific literature. You are probably
+curious what infrared spectroscopy is based on and what it serves to in
+an agronomic context. You will find out by reading the recommended
+literature at the bottom of this document.
+
+-----
+
+Secondly, you may want to be prepared to measure, process and model
+plant or soil samples spectrally, and finally predict properties of new
+samples to reduce the extent of labourious reference analyses.
+
 R has become a very popular environment for statistical computing. There
-is other alternative languages that are equally good, better or worse,
-depeding on the field of application and personal opinion. Here, we
+are alternative languages that are equally good, better or worse,
+depending on the field of application and personal opinion. Here, we
 solely focus on R.
 
   - **Minimum recommended R knowledge**: Prior to working with spectral
