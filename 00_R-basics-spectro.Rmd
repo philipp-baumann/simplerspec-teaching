@@ -11,7 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This document contains useful R resources for R topics that you should be 
 familiar with prior to starting with soil and plant spectral modeling.
-There are plentiful of good R books, tutorials and other online resources such as blogs that cover these aspects. Thus, feel free to explore other resources
+There are plentiful of good R books, tutorials and other online resources such 
+as blogs that cover these aspects. Thus, feel free to explore other resources
 to improve your R skills to manage and analyze your data efficiently and in a
 reproducible manner. You can have a very steep learning curve in R. In 
 particular, being familiar with the basics of the R language and setting up a 
