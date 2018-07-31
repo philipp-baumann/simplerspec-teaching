@@ -2,7 +2,7 @@ Minimum recommended R skills for spectroscopy modeling
 ================
 Philipp Baumann || <philipp.baumann@usys.ethz.ch>
 
-This document contains useful R resources for R topics that you should be familiar with prior to starting with soil and plant spectral modeling. There are plentiful of good R books, tutorials and other online resources such as blogs that cover these aspects. Thus, feel free to explore other resources to improve your R skills to manage and analyze your data efficiently and in a reproducible manner. You can have a very steep learning curve in R. In particular, being familiar with the basics of the R language and setting up a proper R working environment can help you to avoid or understand common errors and pitfalls. **Bold text** in this pdf document indicates that there is a link for online resources you can click on.
+This document contains some useful R resources and R topics that you should be familiar with prior to taking my training course for soil and plant spectral modeling. There are plentiful of good R books, tutorials and other online resources such as blogs that cover these aspects. Thus, feel free to explore any of these resources to improve your R skills to manage and analyze your data efficiently and in a reproducible manner. By doing so, you will have a very steep learning curve in R. In particular, being familiar with the basics of the R language and setting up a proper R working environment *is a pre-requisite for* you to avoid or understand common errors and pitfalls (for example, xxxx). **Bold text** in this pdf document indicates a link for online resources you can click on.
 
 R resources
 ===========
@@ -10,9 +10,9 @@ R resources
 Install the newest version of R
 -------------------------------
 
-The [**Comprehensive R Archive Network**](https://cran.r-project.org/) (CRAN) is a network of servers that mirror code and documentation of the R language and contains the R package repository that currently features over 10000 available packages. You can download the latest binary version of R for your operating system.
+The [**Comprehensive R Archive Network**](https://cran.r-project.org/) (CRAN) is a network of servers that mirror code and documentation of the R language and contains the R package repository that currently features over 10000 available packages. Download the latest binary version of R for your operating system.
 
-Start working with the R environment
+Start working in the R environment
 ------------------------------------
 
 [**RStudio**](https://www.rstudio.com/) is an integrated developing environment (IDE) for R. It is open source and is available for Linux, Windows and Mac. RStudio facilitates writing and executing R code and provides, among many other features, interactive help, code highlighting and completion. Download the lastest version of *RStudio Desktop (Open Source License)*.
@@ -21,7 +21,7 @@ Before you start working with R in the RStudio environment, I strongly recommend
 
 Basic foundations for running R code are well documented in [**this chapter**](http://r4ds.had.co.nz/workflow-basics.html) of R for Data Science. This chapter covers how to work with R objects and how to do assignments to create objects with associated values. This helps you to avoid common pitfalls when working with objects in R environments.
 
-General Introduction to R
+General introduction to R
 -------------------------
 
 The document [**An Introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf) is provided by the R core team. There are many other comprehensive manuals and tutorials that introduce R as well. Some of them are listed on CRAN (see [**here**](https://cran.r-project.org/) and go to `Documentation > Contributed`).
@@ -43,7 +43,7 @@ The DataCamp course [**Exploratory Data Analysis in R: Case Study**](https://www
 Good coding style
 -----------------
 
-There is not one single style guide to format well readable R code. Nevertheless, it is very helpful to have a concise and meaningful notation and naming practice as well as syntax style and code commenting guidelines. A good example of well organizing and formatting R code is provided in [**this chapter**](http://adv-r.had.co.nz/Style.html) of Advanced R.
+There is no single style guide to format well readable R code. Nevertheless, it is very helpful to have a concise and meaningful notation and naming practice as well as syntax style and code commenting guidelines. A good example of well organizing and formatting R code is provided in [**this chapter**](http://adv-r.had.co.nz/Style.html) of Advanced R.
 
 Cheat sheets
 ------------
@@ -58,14 +58,14 @@ You might find those particularly useful:
 -   *Data Visualization Cheat Sheet*
 -   *Contributed Cheatsheets: Base R*
 
-List of R topics and tasks you should master prior to attending the workshop
+List of R topics and tasks you should master prior to attending my training course
 ============================================================================
 
-In order to make this training course efficient and useful for you, I expect that you have a good understanding of and be experienced with the following aspects of R free software environment for statistical computing and graphics:
+In order to make my training course efficient and useful for you, I expect that you have a good understanding of and be experienced with the following aspects of R environment for statistical computing and graphics:
 
 -   Be familiar to work with basic R data structures: (atomic) vectors, lists, matrices, data frames.
 -   Good knowledge of subsetting operators (`[[`, `[` and `$`) and behavior for basic R data structures. Know how to combine subsetting and assignment (also consider the [**"Subsetting" chapter**](http://adv-r.had.co.nz/Subsetting.html) of the Advanced R book.
--   Practice with basic R functions for working with basic R data structures and statistics.
+-   Practice with basic R functions for working with basic R data structures and statistical analyses.
 -   Data transformation and manipulation using the dplyr package. Familiarity with the pipe (`%>%`) operator.
 -   Data visualization using the base R plotting system using a generic function such as `plot()`) as well as using the ggplot2 package.
--   *Recommended*: Applied knowledge of common methods in multivariate statistics (e.g., multiple linear regression and Principal Component Analysis (PCA)). However, we will also cover these topics in the course.
+-   *Recommended*: Knowledge of common methods and application in multivariate statistics (e.g., multiple linear regression and Principal Component Analysis (PCA)). However, we will also cover these topics in the course.
