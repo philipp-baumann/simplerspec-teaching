@@ -2,6 +2,16 @@ Minimum recommended R skills for spectroscopy modeling
 ================
 Philipp Baumann || <philipp.baumann@usys.ethz.ch>
 
+-   [R resources](#r-resources)
+    -   [Install the newest version of R](#install-the-newest-version-of-r)
+    -   [Start working with the R environment](#start-working-with-the-r-environment)
+    -   [General Introduction to R](#general-introduction-to-r)
+    -   [Introduction to R: *Online resources*](#introduction-to-r-online-resources)
+    -   [Data manipulation for exploratory analysis](#data-manipulation-for-exploratory-analysis)
+    -   [Good coding style](#good-coding-style)
+    -   [Cheat sheets](#cheat-sheets)
+-   [List of R topics and tasks you should master prior to attending the workshop](#list-of-r-topics-and-tasks-you-should-master-prior-to-attending-the-workshop)
+
 This document contains useful R resources for R topics that you should be familiar with prior to starting with soil and plant spectral modeling. There are plentiful of good R books, tutorials and other online resources such as blogs that cover these aspects. Thus, feel free to explore other resources to improve your R skills to manage and analyze your data efficiently and in a reproducible manner. You can have a very steep learning curve in R. In particular, being familiar with the basics of the R language and setting up a proper R working environment can help you to avoid or understand common errors and pitfalls. **Bold text** in this pdf document indicates that there is a link for online resources you can click on.
 
 R resources

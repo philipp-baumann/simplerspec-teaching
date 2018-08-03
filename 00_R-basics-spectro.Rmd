@@ -2,7 +2,20 @@
 title: "Minimum recommended R skills for spectroscopy modeling"
 author: "Philipp Baumann || philipp.baumann@usys.ethz.ch"
 output: 
-  rmarkdown::github_document
+  pdf_document:
+    fig_caption: yes
+    number_sections: yes
+    toc: true
+    toc_depth: 2
+    latex_engine: xelatex
+  html_notebook:
+    fig_caption: yes
+    number_sections: yes
+    toc: true
+    toc_depth: 2
+  github_document:
+    toc: true
+    toc_depth: 2
 ---
 
 ```{r setup, include=FALSE}
