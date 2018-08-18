@@ -21,7 +21,9 @@ Spectroscopy tutorials
 
 Below you find specific sections that cover the spectroscopy processing and modeling workflow (click on links):
 
-1.  [**Read, filter and transform spectra and metadata**](https://github.com/philipp-baumann/simplerspec-read-filter-transform): Learn how to use the R core data structures and opterations such as subsetting to explore and transform spectral data.
+1.  [**Read, filter and transform spectra and metadata**](https://github.com/philipp-baumann/simplerspec-read-filter-transform): Learn how to use the R core data structures and opterations such as subsetting to explore and transform spectral data. || aka the "base R" way of spectral data handling
+
+2.  **The simplerspec spectral data processing pipeline**: Process and manage spectral data the tidy(verse) way.
 
 ------------------------------------------------------------------------
 
@@ -37,7 +39,7 @@ Principles and applications of soil spectroscopy
 
 -   Clairotte, M., Grinand, C., Kouakoua, E., Thébault, A., Saby, N. P. A., Bernoux, M., & Barthès, B. G. (2016). National calibration of soil organic carbon concentration using diffuse infrared reflectance spectroscopy. Geoderma, 276, 41–52. <https://doi.org/10.1016/j.geoderma.2016.04.021>
 
--   Nocita, M., Stevens, A., van Wesemael, B., Aitkenhead, M., Bachmann, M., Barthès, B., … Wetterlind, J. (2015). Chapter Four - Soil Spectroscopy: An Alternative to Wet Chemistry for Soil Monitoring. In D. L. Sparks (Ed.), Advances in Agronomy (Vol. 132, pp. 139–159). Academic Press. Retrieved from <http://www.sciencedirect.com/science/article/pii/S0065211315000425>
+-   Nocita, M., Stevens, A., van Wesemael, B., Aitkenhead, M., Bachmann, M., Barthès, B., … Wetterlind, J. (2015). Chapter Four - Soil Spectroscopy: An Alternative to Wet Chemistry for Soil Monitoring. In D. L. Sparks (Ed.), Advances in Agronomy (Vol. 132, pp. 139–159). Academic Press. Retrieved from <http://www.sciencedirect.com/science/article/pii/S0065211315000425>
 
 -   Rinnan, Å. (2014). Pre-processing in vibrational spectroscopy – when, why and how. Analytical Methods, 6(18), 7124. <https://doi.org/10.1039/C3AY42270D>
 
