@@ -23,7 +23,7 @@ Below you find specific sections that cover the spectroscopy processing and mode
 
 1.  [**Read, filter and transform spectra and metadata**](https://github.com/philipp-baumann/simplerspec-read-filter-transform): Learn how to use the R core data structures and operations such as subsetting to explore and transform spectral data. || aka the "base R" way of spectral data handling
 
-2.  **The simplerspec spectral data processing pipeline**: Process and manage spectral data the tidy(verse) way.
+2.  [**The simplerspec spectral data processing pipeline**](https://github.com/philipp-baumann/simplerspec-proc-pipeline): Process and manage spectral data the tidy(verse) way.
 
 ------------------------------------------------------------------------
 
